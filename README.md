@@ -106,7 +106,7 @@ This project does not include a database export because the activity requires st
 ## Live Application
 
 Hosted Application Link:
-`roquetc37-tfa1.site.je`
+`https://roquetc37-tfa1.site.je/`
 
 ## GitHub Repository
 
